@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:dword-design/test-deprecation.git",
   "author": "\"foo\" <\"foo@bar.de\">",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@dword-design/get-depcheck-babel-parser": "1.0.0"
+  }
 }
