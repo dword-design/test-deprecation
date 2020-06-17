@@ -6,6 +6,6 @@
   "author": "\"foo\" <\"foo@bar.de\">",
   "license": "MIT",
   "dependencies": {
-    "@dword-design/get-depcheck-babel-parser": "1.0.0"
+    "@dword-design/get-depcheck-babel-parser": "1.0.5"
   }
 }
